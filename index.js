@@ -1,3 +1,4 @@
+// add comment
 const $ = (element) => {
   const split = element.split(/(\.|\#)/)[2];
   if (element.indexOf(".") === 0) {
